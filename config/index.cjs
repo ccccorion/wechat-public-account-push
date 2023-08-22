@@ -1,8 +1,6 @@
 /* eslint-disable */
 
 
-const USER_CONFIG = {
-
   // 使用微信测试号：公众号APP_ID
   APP_ID: '',wx2ffca96911758381
 
