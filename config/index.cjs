@@ -28,10 +28,6 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2023-07-18' },
-        // 小郭的生日
-        { keyword: 'marry_day', date: '2000-02-28' },
-      ],
-    },
   ],
 
 
